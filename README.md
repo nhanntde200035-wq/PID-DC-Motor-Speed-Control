@@ -1,3 +1,13 @@
+
+
+https://github.com/user-attachments/assets/0e32c798-5bf1-407b-a93f-2ccd672a9ba5
+
+
+
+https://github.com/user-attachments/assets/82a52e04-46e5-4977-9ddf-90037af53364
+
+
+
 # Lab 2 — LPIT Timer và FTM PWM trên S32K144
 
 Dự án môn **EBS211 — Hệ thống nhúng**, xây dựng cụm điều khiển động cơ DC và xi-nhan trên board **MaaZ EDU (S32K144)**. Chương trình sử dụng ngắt LPIT định kỳ để đọc nút nhấn, cập nhật duty cycle PWM và điều khiển hai LED xi-nhan.
